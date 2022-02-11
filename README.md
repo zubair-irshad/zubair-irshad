@@ -2,7 +2,7 @@
 
 My work is best accessed at [https://zubairirshad.com/](https://zubairirshad.com/)
 
-- 🔭 I work on [Robotics / 3D computer vision and Deep Learning]
+- 🔭 I work on [Robotics + 3D computer vision and Deep Learning]
 - 🌱 I’m currently learning tons of cool stuff in teaching robots to perform sim2real, 3D visual understanding, scene reconstruction (and beyond).
 - 👯 I’m frequently looking for collaborators on my projects. If that's you, let's get in touch!
 - 💬 Ask me about research or grad school advice (and anything else -- although I might only be able to reply meaningfully if the ask is specific, and within my areas of expertise).
