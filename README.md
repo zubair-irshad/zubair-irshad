@@ -8,8 +8,7 @@ My work is best accessed at [https://zubairirshad.com/](https://zubairirshad.com
 - 💬 Ask me about research or grad school advice (and anything else -- although I might only be able to reply meaningfully if the ask is specific, and within my areas of expertise).
 - 📫 How to reach me:
   <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"width="10">
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"width="350"></a> &nbsp;&nbsp;
   <a href="https://instagram.com/alexandresanlim">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
