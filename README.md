@@ -15,3 +15,4 @@ My work is best accessed at [https://zubairirshad.com/](https://zubairirshad.com
   </a>&nbsp;&nbsp;
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
+- Stats: 	https://github-readme-stats.vercel.app/api?username={zubair-irshad}
