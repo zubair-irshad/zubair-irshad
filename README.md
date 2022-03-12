@@ -8,8 +8,8 @@ My work is best accessed at [https://zubairirshad.com/](https://zubairirshad.com
 - 💬 Ask me about research or grad school advice (and anything else -- although I might only be able to reply meaningfully if the ask is specific, and within my areas of expertise).
 - 📫 How to reach me: DM me on &nbsp;
   <a href="https://www.linkedin.com/in/zubair-irshad/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="70"></a> &nbsp; or &nbsp;
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="90"></a> &nbsp; or &nbsp;
   <a href="https://twitter.com/mzubairirshad">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="70"></a>       
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="90"></a>       
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
