@@ -12,3 +12,5 @@ My work is best accessed at [https://zubairirshad.com/](https://zubairirshad.com
   <a href="https://twitter.com/mzubairirshad">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="90"></a>       
 - ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
+
+[![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubair-irshad)](https://github.com/anuraghazra/github-readme-stats)
