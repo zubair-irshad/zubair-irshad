@@ -13,4 +13,16 @@ My work is best accessed at [https://zubairirshad.com/](https://zubairirshad.com
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="90"></a>       
 - ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
 
+## My skills
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="50" height="50"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="tensorflow" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
+  
+</p>
+
 [![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubair-irshad)](https://github.com/anuraghazra/github-readme-stats)
