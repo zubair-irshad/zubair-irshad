@@ -2,6 +2,8 @@
 
 My work is best accessed at [https://zubairirshad.com/](https://zubairirshad.com/)
 
+**Graduating Fall 2023 and seeking postdoc or research scientist position**
+
 - 🔭 I work on [Robotics + 3D computer vision and Deep Learning]
 - 🌱 I’m currently learning tons of cool stuff in teaching robots to perform sim2real, 3D visual understanding, scene reconstruction (and beyond).
 - :handshake: I’m frequently looking for collaborators on my projects. If that's you, let's get in touch!
